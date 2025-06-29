@@ -1183,7 +1183,7 @@ msgid "Invalid variable detected."
 msgstr "Variable detectada invàlida."
 
 #: documents/templates/account/account_inactive.html:5
-msgid "Paperless-ngx account inactive"
+msgid "Intranot GED account inactive"
 msgstr "Compte inactiu"
 
 #: documents/templates/account/account_inactive.html:9
@@ -1211,7 +1211,7 @@ msgstr "Gràcies per fer servir %(site_name)s!\n"
 "%(site_domain)s"
 
 #: documents/templates/account/login.html:5
-msgid "Paperless-ngx sign in"
+msgid "Intranot GED sign in"
 msgstr "Validació Paperless-ngx"
 
 #: documents/templates/account/login.html:10
@@ -1249,7 +1249,7 @@ msgid "or sign in via"
 msgstr "o accedeix via"
 
 #: documents/templates/account/password_reset.html:5
-msgid "Paperless-ngx reset password request"
+msgid "Intranot GED reset password request"
 msgstr "Sol·licitud de restabliment de la contrasenya"
 
 #: documents/templates/account/password_reset.html:9
@@ -1265,7 +1265,7 @@ msgid "Send me instructions!"
 msgstr "Enviar instruccions!"
 
 #: documents/templates/account/password_reset_done.html:5
-msgid "Paperless-ngx reset password sent"
+msgid "Intranot GED reset password sent"
 msgstr "S'ha enviat el restabliment de contrasenya"
 
 #: documents/templates/account/password_reset_done.html:9
@@ -1277,7 +1277,7 @@ msgid "We've emailed you instructions for setting your password. You should rece
 msgstr "Us hem enviat per correu electrònic les instruccions per configurar la vostra contrasenya. Rebreu el correu electrònic en breu!"
 
 #: documents/templates/account/password_reset_from_key.html:5
-msgid "Paperless-ngx reset password confirmation"
+msgid "Intranot GED reset password confirmation"
 msgstr "Paperless-ngx confirmació de restabliment de contrasenya"
 
 #: documents/templates/account/password_reset_from_key.html:9
@@ -1301,7 +1301,7 @@ msgid "Change my password"
 msgstr "Canvia contrasenya"
 
 #: documents/templates/account/password_reset_from_key_done.html:5
-msgid "Paperless-ngx reset password complete"
+msgid "Intranot GED reset password complete"
 msgstr "Contrasenya restablerta"
 
 #: documents/templates/account/password_reset_from_key_done.html:9
@@ -1314,7 +1314,7 @@ msgid "Your new password has been set. You can now <a href=\"%(login_url)s\">log
 msgstr "Contrasenya enviada. Pots iniciar <a href=\"%(login_url)s\">sessió</a>"
 
 #: documents/templates/account/signup.html:5
-msgid "Paperless-ngx sign up"
+msgid "Intranot GED sign up"
 msgstr "Registra't a Paperless-ngx"
 
 #: documents/templates/account/signup.html:11

@@ -1195,7 +1195,7 @@ msgid "Invalid variable detected."
 msgstr ""
 
 #: documents/templates/account/account_inactive.html:5
-msgid "Paperless-ngx account inactive"
+msgid "Intranot GED account inactive"
 msgstr ""
 
 #: documents/templates/account/account_inactive.html:9
@@ -1223,7 +1223,7 @@ msgid ""
 msgstr ""
 
 #: documents/templates/account/login.html:5
-msgid "Paperless-ngx sign in"
+msgid "Intranot GED sign in"
 msgstr ""
 
 #: documents/templates/account/login.html:10
@@ -1261,7 +1261,7 @@ msgid "or sign in via"
 msgstr ""
 
 #: documents/templates/account/password_reset.html:5
-msgid "Paperless-ngx reset password request"
+msgid "Intranot GED reset password request"
 msgstr ""
 
 #: documents/templates/account/password_reset.html:9
@@ -1279,7 +1279,7 @@ msgid "Send me instructions!"
 msgstr ""
 
 #: documents/templates/account/password_reset_done.html:5
-msgid "Paperless-ngx reset password sent"
+msgid "Intranot GED reset password sent"
 msgstr ""
 
 #: documents/templates/account/password_reset_done.html:9
@@ -1293,7 +1293,7 @@ msgid ""
 msgstr ""
 
 #: documents/templates/account/password_reset_from_key.html:5
-msgid "Paperless-ngx reset password confirmation"
+msgid "Intranot GED reset password confirmation"
 msgstr ""
 
 #: documents/templates/account/password_reset_from_key.html:9
@@ -1317,7 +1317,7 @@ msgid "Change my password"
 msgstr ""
 
 #: documents/templates/account/password_reset_from_key_done.html:5
-msgid "Paperless-ngx reset password complete"
+msgid "Intranot GED reset password complete"
 msgstr ""
 
 #: documents/templates/account/password_reset_from_key_done.html:9
@@ -1332,7 +1332,7 @@ msgid ""
 msgstr ""
 
 #: documents/templates/account/signup.html:5
-msgid "Paperless-ngx sign up"
+msgid "Intranot GED sign up"
 msgstr ""
 
 #: documents/templates/account/signup.html:11

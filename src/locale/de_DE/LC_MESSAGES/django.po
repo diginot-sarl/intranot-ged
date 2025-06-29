@@ -1183,7 +1183,7 @@ msgid "Invalid variable detected."
 msgstr "Ungültige Variable erkannt."
 
 #: documents/templates/account/account_inactive.html:5
-msgid "Paperless-ngx account inactive"
+msgid "Intranot GED account inactive"
 msgstr "Paperless-ngx-Konto inaktiv"
 
 #: documents/templates/account/account_inactive.html:9
@@ -1211,7 +1211,7 @@ msgstr "Vielen Dank, dass Sie %(site_name)s verwenden!\n"
 "%(site_domain)s"
 
 #: documents/templates/account/login.html:5
-msgid "Paperless-ngx sign in"
+msgid "Intranot GED sign in"
 msgstr "Paperless-ngx Anmeldung"
 
 #: documents/templates/account/login.html:10
@@ -1249,7 +1249,7 @@ msgid "or sign in via"
 msgstr "oder anmelden über"
 
 #: documents/templates/account/password_reset.html:5
-msgid "Paperless-ngx reset password request"
+msgid "Intranot GED reset password request"
 msgstr "Paperless-ngx Kennwortrücksetzungsanfrage"
 
 #: documents/templates/account/password_reset.html:9
@@ -1265,7 +1265,7 @@ msgid "Send me instructions!"
 msgstr "Anweisungen senden!"
 
 #: documents/templates/account/password_reset_done.html:5
-msgid "Paperless-ngx reset password sent"
+msgid "Intranot GED reset password sent"
 msgstr "Paperless-ngx Kennwortrücksetzung gesendet"
 
 #: documents/templates/account/password_reset_done.html:9
@@ -1277,7 +1277,7 @@ msgid "We've emailed you instructions for setting your password. You should rece
 msgstr "Wir haben Ihnen Anweisungen zum Setzen Ihres neuen Kennworts gesendet. Sie sollten die E-Mail in Kürze erhalten!"
 
 #: documents/templates/account/password_reset_from_key.html:5
-msgid "Paperless-ngx reset password confirmation"
+msgid "Intranot GED reset password confirmation"
 msgstr "Paperless-ngx Kennwortrücksetzungsbestätigung"
 
 #: documents/templates/account/password_reset_from_key.html:9
@@ -1301,7 +1301,7 @@ msgid "Change my password"
 msgstr "Mein Kennwort ändern"
 
 #: documents/templates/account/password_reset_from_key_done.html:5
-msgid "Paperless-ngx reset password complete"
+msgid "Intranot GED reset password complete"
 msgstr "Paperless-ngx Kennwort-Rücksetzung abgeschlossen"
 
 #: documents/templates/account/password_reset_from_key_done.html:9
@@ -1314,7 +1314,7 @@ msgid "Your new password has been set. You can now <a href=\"%(login_url)s\">log
 msgstr "Ihr neues Kennwort wurde gesetzt. Sie können sich jetzt unter <a href=\"%(login_url)s\">anmelden</a>"
 
 #: documents/templates/account/signup.html:5
-msgid "Paperless-ngx sign up"
+msgid "Intranot GED sign up"
 msgstr "Paperless-ngx-Registrierung"
 
 #: documents/templates/account/signup.html:11

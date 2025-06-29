@@ -1183,7 +1183,7 @@ msgid "Invalid variable detected."
 msgstr "Variable invalide détectée."
 
 #: documents/templates/account/account_inactive.html:5
-msgid "Paperless-ngx account inactive"
+msgid "Intranot GED account inactive"
 msgstr "Compte Paperless-ngx inactif"
 
 #: documents/templates/account/account_inactive.html:9
@@ -1210,7 +1210,7 @@ msgid "Thank you for using %(site_name)s!\n"
 msgstr "Merci d'utiliser %(site_name)s ! %(site_domain)s"
 
 #: documents/templates/account/login.html:5
-msgid "Paperless-ngx sign in"
+msgid "Intranot GED sign in"
 msgstr "Connexion à Paperless-ngx"
 
 #: documents/templates/account/login.html:10
@@ -1248,7 +1248,7 @@ msgid "or sign in via"
 msgstr "ou se connecter via"
 
 #: documents/templates/account/password_reset.html:5
-msgid "Paperless-ngx reset password request"
+msgid "Intranot GED reset password request"
 msgstr "Demande de réinitialisation du mot de passe Paperless-ngx"
 
 #: documents/templates/account/password_reset.html:9
@@ -1264,7 +1264,7 @@ msgid "Send me instructions!"
 msgstr "Envoyez-moi les instructions !"
 
 #: documents/templates/account/password_reset_done.html:5
-msgid "Paperless-ngx reset password sent"
+msgid "Intranot GED reset password sent"
 msgstr "Réinitialisation du mot de passe Paperless-ngx envoyé"
 
 #: documents/templates/account/password_reset_done.html:9
@@ -1276,7 +1276,7 @@ msgid "We've emailed you instructions for setting your password. You should rece
 msgstr "Nous vous avons envoyé un courriel contenant des instructions pour définir votre mot de passe. Vous devriez le recevoir bientôt !"
 
 #: documents/templates/account/password_reset_from_key.html:5
-msgid "Paperless-ngx reset password confirmation"
+msgid "Intranot GED reset password confirmation"
 msgstr "Confirmation de la réinitialisation du mot de passe Paperless-ngx"
 
 #: documents/templates/account/password_reset_from_key.html:9
@@ -1300,7 +1300,7 @@ msgid "Change my password"
 msgstr "Changer mon mot de passe"
 
 #: documents/templates/account/password_reset_from_key_done.html:5
-msgid "Paperless-ngx reset password complete"
+msgid "Intranot GED reset password complete"
 msgstr "Mot de passe Paperless-ngx réinitialisé"
 
 #: documents/templates/account/password_reset_from_key_done.html:9
@@ -1313,7 +1313,7 @@ msgid "Your new password has been set. You can now <a href=\"%(login_url)s\">log
 msgstr "Votre nouveau mot de passe a été défini. Vous pouvez maintenant <a href=\"%(login_url)s\">vous connecter</a>"
 
 #: documents/templates/account/signup.html:5
-msgid "Paperless-ngx sign up"
+msgid "Intranot GED sign up"
 msgstr "S'inscrire à Paperless-ngx"
 
 #: documents/templates/account/signup.html:11

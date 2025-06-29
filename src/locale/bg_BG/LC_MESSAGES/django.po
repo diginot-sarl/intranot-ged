@@ -1183,7 +1183,7 @@ msgid "Invalid variable detected."
 msgstr "Засечена е невалидна променлива."
 
 #: documents/templates/account/account_inactive.html:5
-msgid "Paperless-ngx account inactive"
+msgid "Intranot GED account inactive"
 msgstr "Акаунтът в Paperless-ngx не е активен"
 
 #: documents/templates/account/account_inactive.html:9
@@ -1211,7 +1211,7 @@ msgstr "Благодари, че използвате %(site_name)s!\n"
 "%(site_domain)s"
 
 #: documents/templates/account/login.html:5
-msgid "Paperless-ngx sign in"
+msgid "Intranot GED sign in"
 msgstr "Вписване в Paperless-ngx"
 
 #: documents/templates/account/login.html:10
@@ -1249,7 +1249,7 @@ msgid "or sign in via"
 msgstr "или влезте чрез"
 
 #: documents/templates/account/password_reset.html:5
-msgid "Paperless-ngx reset password request"
+msgid "Intranot GED reset password request"
 msgstr "Заявка за нулиране на парола за Paperless-ngx"
 
 #: documents/templates/account/password_reset.html:9
@@ -1265,7 +1265,7 @@ msgid "Send me instructions!"
 msgstr "Изпрати ми указания!"
 
 #: documents/templates/account/password_reset_done.html:5
-msgid "Paperless-ngx reset password sent"
+msgid "Intranot GED reset password sent"
 msgstr "Изпратена е нова парола за Paperless-ngx"
 
 #: documents/templates/account/password_reset_done.html:9
@@ -1277,7 +1277,7 @@ msgid "We've emailed you instructions for setting your password. You should rece
 msgstr "Изпратихме ви по имейл инструкции за задаване на парола. Скоро трябва да получите имейла!"
 
 #: documents/templates/account/password_reset_from_key.html:5
-msgid "Paperless-ngx reset password confirmation"
+msgid "Intranot GED reset password confirmation"
 msgstr "Потвърждение за нулиране на паролата на Paperless-ngx"
 
 #: documents/templates/account/password_reset_from_key.html:9
@@ -1301,7 +1301,7 @@ msgid "Change my password"
 msgstr "Промяна на моята паролата"
 
 #: documents/templates/account/password_reset_from_key_done.html:5
-msgid "Paperless-ngx reset password complete"
+msgid "Intranot GED reset password complete"
 msgstr "Възстановяването на паролата в Paperless-ngx е завършено"
 
 #: documents/templates/account/password_reset_from_key_done.html:9
@@ -1314,7 +1314,7 @@ msgid "Your new password has been set. You can now <a href=\"%(login_url)s\">log
 msgstr "Вашата нова парола е зададена. Вече можете да <a href=\"%(login_url)s\">да влезете в системата</a>"
 
 #: documents/templates/account/signup.html:5
-msgid "Paperless-ngx sign up"
+msgid "Intranot GED sign up"
 msgstr "Регистрация"
 
 #: documents/templates/account/signup.html:11

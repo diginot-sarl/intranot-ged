@@ -1183,7 +1183,7 @@ msgid "Invalid variable detected."
 msgstr "اكتشاف متغير خاطئ."
 
 #: documents/templates/account/account_inactive.html:5
-msgid "Paperless-ngx account inactive"
+msgid "Intranot GED account inactive"
 msgstr ""
 
 #: documents/templates/account/account_inactive.html:9
@@ -1211,7 +1211,7 @@ msgstr "شكراً لكم على استعمالكم %(site_name)s!\n"
 "%(site_domain)s"
 
 #: documents/templates/account/login.html:5
-msgid "Paperless-ngx sign in"
+msgid "Intranot GED sign in"
 msgstr "تسجيل الدخول Paperless-ngx"
 
 #: documents/templates/account/login.html:10
@@ -1249,7 +1249,7 @@ msgid "or sign in via"
 msgstr "أو تسجيل الدخول عبر"
 
 #: documents/templates/account/password_reset.html:5
-msgid "Paperless-ngx reset password request"
+msgid "Intranot GED reset password request"
 msgstr "طلب إعادة تعيين كلمة مرور Paperless-ngx"
 
 #: documents/templates/account/password_reset.html:9
@@ -1265,7 +1265,7 @@ msgid "Send me instructions!"
 msgstr "أرسل لي التعليمات!"
 
 #: documents/templates/account/password_reset_done.html:5
-msgid "Paperless-ngx reset password sent"
+msgid "Intranot GED reset password sent"
 msgstr "‏تم إرسال رابط إعادة تعيين كلمة المرور لPaperless-ngx"
 
 #: documents/templates/account/password_reset_done.html:9
@@ -1277,7 +1277,7 @@ msgid "We've emailed you instructions for setting your password. You should rece
 msgstr "لقد أرسلنا إليك تعليمات لإعداد كلمة المرور الخاصة بك. يجب أن تتلقى البريد الإلكتروني قريباً!"
 
 #: documents/templates/account/password_reset_from_key.html:5
-msgid "Paperless-ngx reset password confirmation"
+msgid "Intranot GED reset password confirmation"
 msgstr "تأكيد إعادة تعيين كلمة المرور لPaperless-ngx"
 
 #: documents/templates/account/password_reset_from_key.html:9
@@ -1301,7 +1301,7 @@ msgid "Change my password"
 msgstr "تغيير كلمة المرور الخاصة بي"
 
 #: documents/templates/account/password_reset_from_key_done.html:5
-msgid "Paperless-ngx reset password complete"
+msgid "Intranot GED reset password complete"
 msgstr "تم إعادة تعيين كلمة المرور لPaperless-ngx"
 
 #: documents/templates/account/password_reset_from_key_done.html:9
@@ -1314,7 +1314,7 @@ msgid "Your new password has been set. You can now <a href=\"%(login_url)s\">log
 msgstr "تم تعيين كلمة المرور الجديدة الخاصة بك. يمكنك الآن <a href=\"%(login_url)s\">تسجيل الدخول</a>"
 
 #: documents/templates/account/signup.html:5
-msgid "Paperless-ngx sign up"
+msgid "Intranot GED sign up"
 msgstr "التسجيل في Paperless-ngx"
 
 #: documents/templates/account/signup.html:11

@@ -1183,7 +1183,7 @@ msgid "Invalid variable detected."
 msgstr "检测到无效变量。"
 
 #: documents/templates/account/account_inactive.html:5
-msgid "Paperless-ngx account inactive"
+msgid "Intranot GED account inactive"
 msgstr "Paperless-ngx 账户未激活"
 
 #: documents/templates/account/account_inactive.html:9
@@ -1211,7 +1211,7 @@ msgstr "感谢您使用 %(site_name)s!\n"
 "%(site_domain)s"
 
 #: documents/templates/account/login.html:5
-msgid "Paperless-ngx sign in"
+msgid "Intranot GED sign in"
 msgstr "Paperless-ngx 登录"
 
 #: documents/templates/account/login.html:10
@@ -1249,7 +1249,7 @@ msgid "or sign in via"
 msgstr "或者通过以下方式登录"
 
 #: documents/templates/account/password_reset.html:5
-msgid "Paperless-ngx reset password request"
+msgid "Intranot GED reset password request"
 msgstr "Paperless-ngx密码重置请求"
 
 #: documents/templates/account/password_reset.html:9
@@ -1265,7 +1265,7 @@ msgid "Send me instructions!"
 msgstr "向为发送说明"
 
 #: documents/templates/account/password_reset_done.html:5
-msgid "Paperless-ngx reset password sent"
+msgid "Intranot GED reset password sent"
 msgstr "Paperless-ngx密码重置发送"
 
 #: documents/templates/account/password_reset_done.html:9
@@ -1277,7 +1277,7 @@ msgid "We've emailed you instructions for setting your password. You should rece
 msgstr "我们已经通过电子邮件向您发送设置密码的说明。你应该很快就会收到。"
 
 #: documents/templates/account/password_reset_from_key.html:5
-msgid "Paperless-ngx reset password confirmation"
+msgid "Intranot GED reset password confirmation"
 msgstr "Paperless-ngx密码重置确认"
 
 #: documents/templates/account/password_reset_from_key.html:9
@@ -1301,7 +1301,7 @@ msgid "Change my password"
 msgstr "修改密码"
 
 #: documents/templates/account/password_reset_from_key_done.html:5
-msgid "Paperless-ngx reset password complete"
+msgid "Intranot GED reset password complete"
 msgstr "Paperless-ngx密码重置完成"
 
 #: documents/templates/account/password_reset_from_key_done.html:9
@@ -1314,7 +1314,7 @@ msgid "Your new password has been set. You can now <a href=\"%(login_url)s\">log
 msgstr "你的新密码已经被设置，你现在可以<a href=\"%(login_url)s\">登录</a>"
 
 #: documents/templates/account/signup.html:5
-msgid "Paperless-ngx sign up"
+msgid "Intranot GED sign up"
 msgstr "Paperless-ngx 注册"
 
 #: documents/templates/account/signup.html:11

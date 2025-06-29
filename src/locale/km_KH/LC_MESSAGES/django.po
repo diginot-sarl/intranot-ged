@@ -393,7 +393,7 @@ msgid "Sign in again"
 msgstr ""
 
 #: documents/templates/registration/login.html:15
-msgid "Paperless-ngx sign in"
+msgid "Intranot GED sign in"
 msgstr ""
 
 #: documents/templates/registration/login.html:61

@@ -1183,7 +1183,7 @@ msgid "Invalid variable detected."
 msgstr "متغیر نامعتبر شناسایی شده است."
 
 #: documents/templates/account/account_inactive.html:5
-msgid "Paperless-ngx account inactive"
+msgid "Intranot GED account inactive"
 msgstr "حساب بدون کاغذ ngx غیرفعال است"
 
 #: documents/templates/account/account_inactive.html:9
@@ -1210,7 +1210,7 @@ msgid "Thank you for using %(site_name)s!\n"
 msgstr ""
 
 #: documents/templates/account/login.html:5
-msgid "Paperless-ngx sign in"
+msgid "Intranot GED sign in"
 msgstr "ثبت نام NGX بدون کاغذ"
 
 #: documents/templates/account/login.html:10
@@ -1248,7 +1248,7 @@ msgid "or sign in via"
 msgstr "یا وارد سیستم شوید"
 
 #: documents/templates/account/password_reset.html:5
-msgid "Paperless-ngx reset password request"
+msgid "Intranot GED reset password request"
 msgstr "درخواست رمز عبور بدون تنظیم مجدد Paperless"
 
 #: documents/templates/account/password_reset.html:9
@@ -1264,7 +1264,7 @@ msgid "Send me instructions!"
 msgstr "برای من دستورالعمل ارسال کنید!"
 
 #: documents/templates/account/password_reset_done.html:5
-msgid "Paperless-ngx reset password sent"
+msgid "Intranot GED reset password sent"
 msgstr "Paperless-NGX بازنشانی رمز عبور ارسال شده"
 
 #: documents/templates/account/password_reset_done.html:9
@@ -1276,7 +1276,7 @@ msgid "We've emailed you instructions for setting your password. You should rece
 msgstr "ما برای تنظیم رمز عبور خود به شما دستورالعمل ارسال کرده ایم. شما باید به زودی ایمیل را دریافت کنید!"
 
 #: documents/templates/account/password_reset_from_key.html:5
-msgid "Paperless-ngx reset password confirmation"
+msgid "Intranot GED reset password confirmation"
 msgstr "تأیید رمز عبور NGX بدون تنظیم مجدد"
 
 #: documents/templates/account/password_reset_from_key.html:9
@@ -1300,7 +1300,7 @@ msgid "Change my password"
 msgstr "رمز ورود من را تغییر دهید"
 
 #: documents/templates/account/password_reset_from_key_done.html:5
-msgid "Paperless-ngx reset password complete"
+msgid "Intranot GED reset password complete"
 msgstr "Paperless بدون تنظیم رمز عبور کامل"
 
 #: documents/templates/account/password_reset_from_key_done.html:9
@@ -1313,7 +1313,7 @@ msgid "Your new password has been set. You can now <a href=\"%(login_url)s\">log
 msgstr ""
 
 #: documents/templates/account/signup.html:5
-msgid "Paperless-ngx sign up"
+msgid "Intranot GED sign up"
 msgstr "Paperless-NGX ثبت نام کنید"
 
 #: documents/templates/account/signup.html:11
