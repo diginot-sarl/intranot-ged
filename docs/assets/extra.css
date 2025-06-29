@@ -1,9 +1,9 @@
 :root > * {
-    --md-primary-fg-color: #17541f;
-    --md-primary-fg-color--dark: #17541f;
-    --md-primary-fg-color--light: #17541f;
-    --md-accent-fg-color: #2b8a38;
-    --md-typeset-a-color: #21652a;
+    --md-primary-fg-color: #065fad;
+    --md-primary-fg-color--dark: #03305a;
+    --md-primary-fg-color--light: #065fad;
+    --md-accent-fg-color: #076ac0;
+    --md-typeset-a-color: #02284d;
 }
 
 [data-md-color-scheme="slate"] {
