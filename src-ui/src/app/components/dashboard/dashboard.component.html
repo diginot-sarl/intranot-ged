@@ -47,14 +47,14 @@
       </ng-container>
     </div>
   </div>
-  <div class="col-12 pt-5">
-    <div class="row mt-5">
-      <div class="col-6">
-        <pngx-upload-file-widget></pngx-upload-file-widget>
-      </div>
+  <div class="col-12">
+    <div class="row">
       <div class="col-6">
         <pngx-statistics-widget
-          *pngxIfPermissions="{ action: PermissionAction.View, type: PermissionType.UISettings }"></pngx-statistics-widget>
+        *pngxIfPermissions="{ action: PermissionAction.View, type: PermissionType.UISettings }"></pngx-statistics-widget>
+      </div>
+      <div class="col-6">
+        <pngx-upload-file-widget></pngx-upload-file-widget>
       </div>
     </div>
   </div>
