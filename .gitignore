@@ -75,8 +75,6 @@ target/
 virtualenv
 /venv
 .venv/
-/docker-compose.env
-/docker-compose.yml
 .ruff_cache/
 
 # Used for development
